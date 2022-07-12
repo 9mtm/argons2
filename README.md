@@ -1,4 +1,4 @@
-# argons
+# argon
 
 ## Project setup
 ```
